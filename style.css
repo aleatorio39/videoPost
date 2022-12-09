@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+}
+
+
+.divnav {
+    padding: 18px;
+    word-spacing: 10px;
+    background-color: red;
+}
+
+.divnav a{
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.divnav a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.divnav img {
+    position: relative;
+    margin-top: 5px;
+}
